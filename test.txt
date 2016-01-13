@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 testing git, testing, 123
 hello
+=======
+>>>>>>> parent of ac82679... wrote some text
